@@ -1,9 +1,14 @@
 # ScaryDescentPrivacyPolicy
 
-# For offline players:
-We do not collect, use, or share information about our users.
-To have your user data cleared, you dont need to do anything, because we dont collect any.
+# Data we collect
+USER_AGE,
+USER_PROFILE,
+IAP and USER_ID.
 
-# For multiplayer players:
-We collect your IP for multiplayer purposes when you join a lobby. 
-Data is automatically cleared daily as we dont need it.
+# Why we collect this.
+ID is for multiplayer, 
+profile is to set your default name in the game,
+IAP is for in game skins.
+
+# How to delete your user data
+All collected data is automatically deleted every 24 hours. As data is only used for multiplayer purposes.
