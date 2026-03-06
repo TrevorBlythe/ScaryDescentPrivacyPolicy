@@ -1,7 +1,7 @@
 # ScaryDescentPrivacyPolicy
 
 # Data we collect
-USER_AGE,
+
 USER_PROFILE,
 IAP and USER_ID.
 
